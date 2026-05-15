@@ -34,9 +34,9 @@ The data indicates that the highest volume of complaints originated from Punjab 
 
 **Responsiveness & Resolution:** Most complainants received no feedback from authorities. A critical lack of engagement was observed: 100% of complainants in KPK and over 80% in Punjab and Balochistan were never contacted. This highlights an urgent need for a performance audit and stricter oversight of the resolution staff in these regions.
 
-![complaint_resolved](https://github.com/snaveerafrizvi/Grievance_Redressal/blob/main/complaint_resolved.png)
-
 **Follow-up Barriers:** There was a low rate of repeat complaints, primarily due to time constraints and language barriers. In Balochistan, language was identified as the primary barrier to lodging complaints. Implementing translation services could be a key strategic intervention for authorities to improve service accessibility.
+
+![complaint_resolved](https://github.com/snaveerafrizvi/Grievance_Redressal/blob/main/complaint_resolved.png)
 
   
 ## Programming Languages and Tools used
