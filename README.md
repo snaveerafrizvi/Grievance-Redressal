@@ -1,9 +1,17 @@
 # Grievance Redressal
 
+## Project Overview 
 This project uses synthetic data inspired from the Grievance Redress Report (GRR-1) by Mott MacDonald Limited.
 The GRR report is the first output from the spot check and beneficiary feedback exercise of the National Cash
 Transfer Programme (NCTP) also known as the Benazir Income Support Programme (BISP).
 
+## Business Understanding
+
+This project analyzes the nature and origin of incoming complaints, while evaluating the effectiveness of the organization’s resolution strategies.
+
+## Programming Languages and Tools used
+
+This project uses a combination of Exploratory Data Analysis and Data Visualization for the analysis. All code is in Python
 Please refer to the Grievance_redressal_sampledata.ipynb file for 
 
 *  The Analysis and report
@@ -22,9 +30,9 @@ The Grievance Redress Report (GRR-1) was produced by Mott MacDonald Limited in a
 * Link to the Grievance Redress Report used to inspire data: https://www.bisp.gov.pk/SiteImage/Misc/files/GrievanceRedressReport.pdf
 * The fake sample data (Clean_Grievance_Sample.xlsx) has also been uploaded
 
-## Summary and Key Insights
+## Key Insights
 
-The data indicates that the highest volume of complaints originated from Punjab and Balochistan. While the high frequency in Punjab correlates with its large population, the significant number of grievances from Balochistan is a notable outlier, given that it is the least populous province.
+The data indicates that the highest volume of complaints originated from Punjab and Balochistan. While the high frequency in Punjab correlates with its large population, the significant number of grievances from Balochistan is a notable outline, given that it is the least populous province.
 
 ![complaint_hotspot](https://github.com/snaveerafrizvi/Grievance_Redressal/blob/main/complaint_hotspot.png)
 
@@ -39,9 +47,7 @@ The data indicates that the highest volume of complaints originated from Punjab 
 ![complaint_resolved](https://github.com/snaveerafrizvi/Grievance_Redressal/blob/main/complaint_resolved.png)
 
   
-## Programming Languages and Tools used
 
-This Project uses Python for all analysis
 
 
   
