@@ -26,10 +26,14 @@ The Grievance Redress Report (GRR-1) was produced by Mott MacDonald Limited in a
 
 The data indicates that the highest volume of complaints originated from Punjab and Balochistan. While the high frequency in Punjab correlates with its large population, the significant number of grievances from Balochistan is a notable outlier, given that it is the least populous province.
 
-![]()
+![complaint_hotspot](https://github.com/snaveerafrizvi/Grievance_Redressal/blob/main/complaint_hotspot.png)
 
 **Primary Grievances:** Payment issues were the most frequent cause for complaints, followed by service quality and documentation requirements. Specifically, in Balochistan and AJK/GB, payment issues accounted for 50% of the total complaint volume.
-**Responsiveness & Resolution:** Most complainants received no feedback from authorities. A critical lack of engagement was observed: 100% of complainants in KPK and over 80% in Punjab and Balochistan were never contacted. This highlights an urgent need for a performance audit and stricter oversight of the resolution staff in these regions. 
+
+![complaint_reasons](https://github.com/snaveerafrizvi/Grievance_Redressal/blob/main/complaint%20reasons.png)
+
+**Responsiveness & Resolution:** Most complainants received no feedback from authorities. A critical lack of engagement was observed: 100% of complainants in KPK and over 80% in Punjab and Balochistan were never contacted. This highlights an urgent need for a performance audit and stricter oversight of the resolution staff in these regions.
+
 **Follow-up Barriers:** There was a low rate of repeat complaints, primarily due to time constraints and language barriers. In Balochistan, language was identified as the primary barrier to lodging complaints. Implementing translation services could be a key strategic intervention for authorities to improve service accessibility.
 
   
