@@ -17,7 +17,7 @@ Please refer to the Grievance_redressal_sampledata.ipynb file for
 *  The Analysis and report
 *  All code, tables and figures
 
-A pdf version of the notebook is also uploaded
+A pdf version of the notebook (excluding code) is also uploaded
 
 ## Data Source
  
